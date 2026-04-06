@@ -1,6 +1,7 @@
 # CODA Website
 
-This repository contains the source for the CODA paper website.
+This repository contains the source code for the CODA paper website. This website is adapted from the [Nerfies website](https://nerfies.github.io).
+
 
 Paper:
 
