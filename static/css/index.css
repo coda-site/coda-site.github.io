@@ -140,7 +140,7 @@ a:hover {
 
 .hero-copy .title {
   font-family: "Google Sans", "Noto Sans", sans-serif;
-  font-size: clamp(2.6rem, 5.8vw, 4.2rem);
+  font-size: clamp(2.4rem, 5.2vw, 3.8rem);
   line-height: 1.02;
   color: var(--text);
   margin-top: 0.2rem;
